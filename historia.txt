@@ -11,3 +11,5 @@ Master 1
 Master 2 
 
 Creado por el super JSRM
+
+Incluye ejemplos en Windows, Linux y Mac
